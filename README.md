@@ -6,7 +6,9 @@
 
 ###
 
-<p align="left">I'm a passionate software developer <br><br>- 🔭 I’m based in India<br>- 📚 I'm currently learning backend development<br>- 👩‍💻  I'm interested in New Tech, python<br><br>- I am learning AI-ML<br>-        Contact : biswajitchetia777@gmail.com</p>
+<p align="left">I'm a passionate software developer <br><br>- 🔭 I’m based in India<br>- 📚 I'm currently learning backend development<br>- 👩‍💻  I'm interested in New Tech, python<br><br>- I am learning AI-ML<br>-       
+  
+  Contact : biswajitchetia777@gmail.com</p>
 
 ###
 
