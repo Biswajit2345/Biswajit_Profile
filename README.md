@@ -8,7 +8,7 @@
 
 <p align="left">I'm a passionate software developer <br><br>- 🔭 I’m based in India<br>- 📚 I'm learning backend development<br>- 👩‍💻  I'm interested in New Tech, python<br> - 📚 I'm currently learning AI-ML<br>      
   
-  Contact :  biswajitchetia777@gmail.com</p>
+  Contact :  biswajitchetia 777@gmail.com</p>
 
 ###
 
